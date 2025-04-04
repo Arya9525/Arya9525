@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Devloper</h3>
 <img align="right"  alt="Coading" width="200" src="https://raw.githubusercontent.com/sauravsinha239/about/main/pg.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsinha239&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsinha239" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya925" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravsinha239" alt="sauravsinha239" /></a> </p>
 
