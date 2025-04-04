@@ -5,30 +5,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya925" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravsinha239" alt="sauravsinha239" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya9525" alt="arya9525" /></a> </p>
 
+- 🔭 I’m currently working on [Android](KOTLIN,JAVA)
 
-<p align="left"> <a href="https://twitter.com/sauravsinha239" target="blank"><img src="https://img.shields.io/twitter/follow/sauravsinha239?logo=twitter&style=for-the-badge" alt="sauravsinha239" /></a> </p>
+- 🌱 I’m currently learning **KOTLIN **
 
-- 🔭 I’m currently working on [Android](Flutter, firebase)
+- 👯 I’m looking to collaborate on **Android project**
 
-- 🌱 I’m currently learning **Flutter SDK Dart **
+- 👨‍💻 All of my projects are available at [www.github.com/arya9525](www.github.com/arya9525)
 
-- 👯 I’m looking to collaborate on **flutter project**
+- 💬 Ask me about **andriod**
 
-- 👨‍💻 All of my projects are available at [www.github.com/sauravsinha239](www.github.com/sauravsinha239)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **sauravsinha239@gmail.com**
-- portfolios [https://sauravsinha239.github.io/portfolio/]
+- 📫 How to reach me **arya500245@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sauravsinha239" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravsinha239" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sauravsinha239" height="30" width="40" /></a>
-<a href="https://fb.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sauravsinha239" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/arya-kumar-mishra-2a64421a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya-kumar-mishra-2a64421a1" height="30" width="40" /></a>
+
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sauravsinha239" height="30" width="40" /></a>
 <a href="https://instagram.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravsinha239" height="30" width="40" /></a>
 </p>
 
