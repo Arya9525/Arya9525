@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Arya Kumar Mishra</h1>
+<h1 align="center">Hello, I'm Arya Kumar Mishra</h1>
 <h3 align="center">A passionate Devloper</h3>
-<img align="right"  alt="Coading" width="150" src="https://i.pinimg.com/736x/a6/0e/06/a60e06ec8d6d558f4c3fd57d06227425.jpg">
+<img align="center"  alt="Coading" width="100" src="https://i.pinimg.com/736x/a6/0e/06/a60e06ec8d6d558f4c3fd57d06227425.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=flat" alt="Arya925" /> </p>
 
