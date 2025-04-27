@@ -13,9 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Android project**
 
-- 👨‍💻 All of my projects are available at [www.github.com/arya9525](www.github.com/arya9525)
-
-- 💬 Ask me about **andriod**
+- 💬 Ask me about **TECHNOLOGY**
 
 - 📫 How to reach me **arya500245@gmail.com**
 
