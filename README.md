@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Android project**
 
-- 💬 Ask me about **TECHNOLOGY**
+- 💬 Ask me about ** TECHNOLOGY **
 
 - 📫 How to reach me **arya500245@gmail.com**
 
