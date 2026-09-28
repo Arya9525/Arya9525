@@ -1,6 +1,6 @@
 <!-- =====================================================================
-     Is file me tumhari profile ki details already bhar di gayi hain.
-     Bas ye poora code apni profile repo (Arya9525/Arya9525) ke README.md me paste karo.
+     Poora README ready hai. Isko apni profile repo (Arya9525/Arya9525) ke README.md me paste karo.
+     GitHub Analytics wali images tab dikhengi jab profile-summary-cards.yml action ek baar run ho chuka ho.
      Naam badalna ho to 2 jagah badlo: banner ka text= aur "About Me" me const arya
      ===================================================================== -->
 
@@ -96,23 +96,23 @@ const arya = {
 </div>
 
 <!-- ================= GITHUB ANALYTICS ================= -->
+<!-- Pehle GitHub Action (profile-summary-cards.yml) ek baar run karo, tab tak ye images nahi dikhengi
+     kyunki wo action se hi banti hain. Branch agar "main" nahi "master" hai to neeche main ki jagah master likho. -->
 ## 📊 GitHub Analytics
 
-<!-- Ye cards github-profile-summary-cards.vercel.app se aate hain.
-     Agar kabhi na dikhe to service busy hai. Pakka tarika: profile-summary-cards.yml (GitHub Action) lagao -->
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arya9525&theme=tokyonight" alt="profile details" />
+<img width="98%" src="https://raw.githubusercontent.com/Arya9525/Arya9525/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arya9525&theme=tokyonight" alt="top languages by repo" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arya9525&theme=tokyonight&utcOffset=5.5" alt="commit time" />
+<img width="48%" src="https://raw.githubusercontent.com/Arya9525/Arya9525/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="top languages by repo" />
+<img width="48%" src="https://raw.githubusercontent.com/Arya9525/Arya9525/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="commit time" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arya9525&theme=tokyonight" alt="stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arya9525&theme=tokyonight" alt="top languages by commit" />
+<img width="48%" src="https://raw.githubusercontent.com/Arya9525/Arya9525/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img width="48%" src="https://raw.githubusercontent.com/Arya9525/Arya9525/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top languages by commit" />
 
 </div>
 
