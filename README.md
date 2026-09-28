@@ -119,11 +119,11 @@ const arya = {
 <!-- ================= GITHUB TROPHIES ================= -->
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arya9525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Arya9525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies" /> -->
 
-</div>
+<!-- </div> -->
 
 <!-- ================= FOOTER ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1f3a,100:5a67f6&height=110&section=footer" width="100%" alt="footer" />
