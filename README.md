@@ -1,13 +1,21 @@
 <!-- =====================================================================
-     STEP 1: Ctrl+F karke YOUR_GITHUB_USERNAME ko apne username se replace karo (Replace All)
-     STEP 2: YOUR_LINKEDIN, YOUR_X, YOUR_INSTAGRAM, YOUR_DISCORD, YOUR_EMAIL badlo
-             (jo social account nahi hai wo poori <a>...</a> line delete kar do)
-     STEP 3: "About Me" ki right side wali image apni pasand ki laga lo (neeche note hai)
+     Is file me tumhari profile ki details already bhar di gayi hain.
+     Bas ye poora code apni profile repo (Arya9525/Arya9525) ke README.md me paste karo.
+     Naam badalna ho to 2 jagah badlo: banner ka text= aur "About Me" me const arya
      ===================================================================== -->
 
 <!-- ================= BANNER ================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1f3a,100:5a67f6&height=240&section=header&text=ROHAN&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20React%20Native%20%7C%20MERN%20%7C%20Salesforce&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b1f3a,100:5a67f6&height=240&section=header&text=Arya%20Kumar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=MCA%20Graduate%20%7C%20Full%20Stack%20Developer%20%7C%20React%20Native%20%7C%20MERN%20%7C%20Salesforce&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="banner" />
+
+<!-- Typing animation: lines= me ; se alag karke lines badal sakte ho -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=MCA+Graduate;MERN+Stack+Developer;React+Native+Developer;Salesforce+Enthusiast;Exploring+innovative+solutions+through+code" alt="typing" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arya9525&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Arya9525?style=for-the-badge&logo=github&color=8A2BE2" alt="followers" />
+<a href="https://arya-portfolio-two-ecru.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="portfolio" /></a>
 </div>
 
 <!-- ================= ABOUT ME ================= -->
@@ -18,9 +26,9 @@
 <td width="55%" valign="top">
 
 ```js
-const rohan = {
+const arya = {
   role: "Full Stack Developer | MCA Graduate",
-  location: "India 🇮🇳",
+  location: "Delhi, India 🇮🇳",
 
   building: [
     "MERN Stack Projects",
@@ -61,11 +69,11 @@ const rohan = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://x.com/YOUR_X" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/arya-kumar-mishra-2a64421a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://arya-portfolio-two-ecru.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="portfolio" /></a>
+<a href="https://instagram.com/_arya__mishra__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006295218217" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="mailto:arya500245@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 </div>
 
@@ -94,17 +102,17 @@ const rohan = {
      Agar kabhi na dikhe to service busy hai. Pakka tarika: profile-summary-cards.yml (GitHub Action) lagao -->
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="profile details" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arya9525&theme=tokyonight" alt="profile details" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="top languages by repo" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5" alt="commit time" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arya9525&theme=tokyonight" alt="top languages by repo" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arya9525&theme=tokyonight&utcOffset=5.5" alt="commit time" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="stats" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="top languages by commit" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arya9525&theme=tokyonight" alt="stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arya9525&theme=tokyonight" alt="top languages by commit" />
 
 </div>
 
@@ -113,7 +121,7 @@ const rohan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arya9525&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12" alt="trophies" />
 
 </div>
 
