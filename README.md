@@ -117,7 +117,6 @@ const arya = {
 </div>
 
 <!-- ================= GITHUB TROPHIES ================= -->
-## 🏆 GitHub Trophies
 
 <!-- <div align="center"> -->
 
